@@ -1,0 +1,84 @@
+/* Estilos gerais */
+body {
+    font-family: Arial, sans-serif;
+}
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 15px;
+}
+
+.section-title {
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+/* Navegação */
+.navbar-brand {
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.navbar-nav .nav-link {
+    font-size: 18px;
+}
+
+.banner {
+    background-color: #f2f2f2;
+    padding: 100px 0;
+}
+
+.banner h1 {
+    font-size: 36px;
+    font-weight: bold;
+    margin-bottom: 30px;
+}
+
+.banner p {
+    font-size: 18px;
+    margin-bottom: 30px;
+}
+
+.banner .btn-primary {
+    font-size: 20px;
+}
+
+.features-section {
+    padding: 100px 0;
+}
+
+.feature-item {
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.feature-item h3 {
+    font-size: 24px;
+    margin-bottom: 15px;
+}
+
+.feature-item p {
+    font-size: 18px;
+}
+
+.about-section {
+    background-color: #f2f2f2;
+    padding: 100px 0;
+}
+
+.about-section p {
+    font-size: 18px;
+}
+
+.contact-section {
+    padding: 100px 0;
+}
+
+.contact-section .form-label {
+    font-size: 20px;
+}
+
+.contact-section .form-control {
+    font-size: 18px;
+}
